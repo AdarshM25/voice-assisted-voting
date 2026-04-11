@@ -1,0 +1,63 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #e9ecef;
+    margin: 0;
+}
+
+/* HEADER */
+.header {
+    background-color: #0d6efd;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* MAIN CARD */
+.container {
+    background: white;
+    width: 400px;
+    margin: 60px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* TITLE */
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+/* BUTTONS */
+button {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #198754;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #157347;
+}
+
+/* OPTION BUTTON */
+.option-btn {
+    background-color: #0d6efd;
+}
+
+.option-btn:hover {
+    background-color: #0b5ed7;
+}
+
+/* INSTRUCTION TEXT */
+.instructions {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+}
