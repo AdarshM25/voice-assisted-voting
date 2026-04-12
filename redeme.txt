@@ -1,0 +1,2 @@
+ c:\Users\bhava\pretest\.venv\Scripts\Activate.ps1
+pip install opencv-python
